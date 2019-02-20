@@ -1,3 +1,4 @@
+// es6解构赋值
 // 1.对象的解构赋值
 var stu = {
     name: 'sunny',
