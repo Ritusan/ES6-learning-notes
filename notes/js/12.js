@@ -1,3 +1,5 @@
+// es6---箭头函数
+
 // function add(a,b){
 //     var _b = b === undefined ? 1 : b
 //     return a+_b
