@@ -1,3 +1,5 @@
+// es6---symbol
+
 // symbol代表独一无二的值
 var s = Symbol('a') //a只是用来标识s的，不含有其它作用
 console.log(typeof s)
