@@ -1,3 +1,5 @@
+// es6---class
+
 // 之前的构造函数
 // function Student(name,age){
 //     this.name = name
