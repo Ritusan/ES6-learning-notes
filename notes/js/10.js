@@ -1,3 +1,5 @@
+// es6---Array
+
 // Array.of()：可以写多项或一项，之前的Array写一项代表数组的长度
 var arr = Array.of(10,20,30)
 // console.log(arr)
