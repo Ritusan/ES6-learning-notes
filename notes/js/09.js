@@ -1,3 +1,5 @@
+// es6---str
+
 // es5,判断字符串中是否包含某个字符
 var str = 'cheerful'
 console.log(str.indexOf('fu') != -1)
